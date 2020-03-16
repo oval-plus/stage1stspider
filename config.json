@@ -1,0 +1,21 @@
+{
+    "merge_mode":true,
+    "write_mode": ["csv"],
+    "slice_num": 500,
+    "baseUrl": "http://bbs.saraba1st.com/2b/thread-",
+    "login_data": {
+        "username":"椭圆",
+        "password":"freeaxis666@"
+    },
+    "headers": {
+        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36"
+    },
+    "mysql_config": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "root",
+        "password": "Lky-1996",
+        "charset": "utf8mb4"
+    },
+    "thread_id_list": true
+}
